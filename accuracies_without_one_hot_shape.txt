@@ -1,0 +1,110 @@
+Accuracy of log reg classifier without penalty:
+0.7951807228915663
+Accuracy of log reg classifier with L2 penalty:
+0.7951807228915663
+Accuracy of log reg classifier with L1 penalty:
+0.7831325301204819
+Accuracy of log reg classifier with Elasticnet penalty:
+0.6746987951807228
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.8313253012048193
+Accuracy of log reg classifier with L2 penalty:
+0.8313253012048193
+Accuracy of log reg classifier with L1 penalty:
+0.8313253012048193
+Accuracy of log reg classifier with Elasticnet penalty:
+0.8072289156626506
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.891566265060241
+Accuracy of log reg classifier with L2 penalty:
+0.891566265060241
+Accuracy of log reg classifier with L1 penalty:
+0.891566265060241
+Accuracy of log reg classifier with Elasticnet penalty:
+0.891566265060241
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.8192771084337349
+Accuracy of log reg classifier with L2 penalty:
+0.8313253012048193
+Accuracy of log reg classifier with L1 penalty:
+0.8313253012048193
+Accuracy of log reg classifier with Elasticnet penalty:
+0.8554216867469879
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.8795180722891566
+Accuracy of log reg classifier with L2 penalty:
+0.8795180722891566
+Accuracy of log reg classifier with L1 penalty:
+0.8795180722891566
+Accuracy of log reg classifier with Elasticnet penalty:
+0.8554216867469879
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.7831325301204819
+Accuracy of log reg classifier with L2 penalty:
+0.7831325301204819
+Accuracy of log reg classifier with L1 penalty:
+0.7831325301204819
+Accuracy of log reg classifier with Elasticnet penalty:
+0.7831325301204819
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.7951807228915663
+Accuracy of log reg classifier with L2 penalty:
+0.7951807228915663
+Accuracy of log reg classifier with L1 penalty:
+0.7951807228915663
+Accuracy of log reg classifier with Elasticnet penalty:
+0.8072289156626506
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.8072289156626506
+Accuracy of log reg classifier with L2 penalty:
+0.8072289156626506
+Accuracy of log reg classifier with L1 penalty:
+0.8072289156626506
+Accuracy of log reg classifier with Elasticnet penalty:
+0.8192771084337349
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.8795180722891566
+Accuracy of log reg classifier with L2 penalty:
+0.8795180722891566
+Accuracy of log reg classifier with L1 penalty:
+0.8795180722891566
+Accuracy of log reg classifier with Elasticnet penalty:
+0.8795180722891566
+
+####################################################
+
+Accuracy of log reg classifier without penalty:
+0.7469879518072289
+Accuracy of log reg classifier with L2 penalty:
+0.7469879518072289
+Accuracy of log reg classifier with L1 penalty:
+0.7831325301204819
+Accuracy of log reg classifier with Elasticnet penalty:
+0.7710843373493976
+
+####################################################
+
