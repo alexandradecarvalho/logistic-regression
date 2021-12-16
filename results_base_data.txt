@@ -1,0 +1,42 @@
+Results using F1 as a scoring metric:
+
+Best parameters set found on development set 1:
+{'C': 0.1, 'l1_ratio': 0.8000000000000003, 'penalty': 'elasticnet', 'solver': 'saga'}
+0.8050825814824112
+
+Best parameters set found on development set 2:
+{'C': 0.0001, 'penalty': 'none'}
+0.8155329226452306
+
+Best parameters set found on development set 3:
+{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+0.8155329226452306
+
+Results using Accuracy as a scoring metric:
+
+Best parameters set found on development set 1:
+{'C': 0.1, 'l1_ratio': 0.8000000000000003, 'penalty': 'elasticnet', 'solver': 'saga'}
+0.8021879021879021
+
+Best parameters set found on development set 2:
+{'C': 0.0001, 'penalty': 'none'}
+0.8219433719433719
+
+Best parameters set found on development set 3:
+{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}
+0.8219433719433719
+
+
+Results using Recall as a scoring metric:
+
+Best parameters set found on development set 1:
+{'C': 0.1, 'l1_ratio': 0.7000000000000002, 'penalty': 'elasticnet', 'solver': 'saga'}
+0.8504887698172634
+
+Best parameters set found on development set 2:
+{'C': 0.1, 'penalty': 'l2'}
+0.8256837015911426
+
+Best parameters set found on development set 3:
+{'C': 0.0001, 'penalty': 'l2', 'solver': 'liblinear'}
+1.0
